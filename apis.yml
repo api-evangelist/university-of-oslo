@@ -1,0 +1,32 @@
+aid: university-of-oslo
+name: University of Oslo
+description: "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)"
+url: https://data.uio.no/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: University of Oslo
+    description: "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)"
+    humanURL: https://data.uio.no/
+    baseURL: https://data.uio.no/
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://data.uio.no/
+common:
+  - type: Website
+    url: https://data.uio.no/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
