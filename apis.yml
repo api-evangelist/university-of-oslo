@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://data.uio.no/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/university-of-oslo-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/university-of-oslo-domain-security.yml
   - type: Website
     url: https://data.uio.no/
   - type: PublicAPIsListing
