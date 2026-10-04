@@ -39,7 +39,6 @@ apis:
   - name: University of Oslo
     description: "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)"
     humanURL: https://data.uio.no/
-    baseURL: https://data.uio.no/
     tags:
       - Open Data
     properties:
